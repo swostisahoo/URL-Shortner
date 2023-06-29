@@ -1,28 +1,3 @@
-#  :link: Shorty
-
-> A self-hosted URL shortening service built using Flask & Mysql. 
-
-![Demo image of Shorty](./desc/hero_final.gif)
-
-
-## :tada: Surprise : Click Analytics 
-
-Tracking for Operating system and platform used to access the link is available.
-
-
-![Demo image for analytics](./desc/ana_demo.gif)
-
-## Getting Started
-
-Clone or download this repository.
-
-```
-git clone https://github.com/PadamSethia/shorty.git
-
-cd shorty/
-
-python ./app.py
-```
 
 ## Prerequisites
 
@@ -171,9 +146,6 @@ For the API run
 Both the processes will run in background .
 
 
-## Projects Used
-* [Skeleton CSS Framework](http://getskeleton.com)
-* [Clipboard.js](https://clipboardjs.com)
 
 ## License
 This project is licensed under the MIT Licene.
